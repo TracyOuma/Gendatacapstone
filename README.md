@@ -71,8 +71,8 @@ MIT License - feel free to use for learning!
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub: https://github.com/TracyOuma
+- Website: https://tracyouma.hashnode.dev/stroke-risk-analysis-in-nigeria-a-beginners-data-journey
 
 ## 🙏 Acknowledgments
 
