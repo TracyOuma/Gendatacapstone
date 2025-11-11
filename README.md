@@ -72,7 +72,8 @@ MIT License - feel free to use for learning!
 
 **Your Name**
 - GitHub: https://github.com/TracyOuma
-- Website: https://tracyouma.hashnode.dev/stroke-risk-analysis-in-nigeria-a-beginners-data-journey
+- Technical Article: https://tracyouma.hashnode.dev/stroke-risk-analysis-in-nigeria-a-beginners-data-journey
+- Tableau: https://public.tableau.com/views/Book3_17624273398250/StrokeAnalysisinNigeria2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 🙏 Acknowledgments
 
