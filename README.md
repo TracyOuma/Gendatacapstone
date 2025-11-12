@@ -9,10 +9,9 @@ To develop an interactive dashboard that analyzes and visualizes stroke risk fac
 
 ### Specific objectives
 1. Identify Medical Risk Factors
-2. Develop a Multi-Factor Risk Assessment Model
-3. Examine Demographic Patterns in Stroke Incidence
-4. Assess Geographic and Occupational Disparities
-5. Evaluate Lifestyle and Social Determinants
+2. Examine Demographic Patterns in Stroke Incidence
+3. Assess Geographic and Occupational Disparities
+4. Evaluate Lifestyle and Social Determinants
 
 
 
