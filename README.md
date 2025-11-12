@@ -1,14 +1,26 @@
 # Stroke Risk Analysis - Nigeria 🏥
 
-Interactive dashboard analyzing stroke risk factors in Nigerian patients using real healthcare data.
+## Problem Statement
+Stroke is a leading cause of death and disability in Nigeria, contributing significantly to the country's cardiovascular disease burden. Despite being largely preventable through early identification and management of risk factors, stroke incidence continues to rise due to limited understanding of risk patterns across different population segments.
 
-![Dashboard Preview](link-to-screenshot)
+## Objectives
+### Main Objective
+To develop an interactive dashboard that analyzes and visualizes stroke risk factors in the Nigerian population, providing actionable insights for healthcare providers, policymakers, and public health practitioners.
+
+### Specific objectives
+1. Identify Medical Risk Factors
+2. Develop a Multi-Factor Risk Assessment Model
+3. Examine Demographic Patterns in Stroke Incidence
+4. Assess Geographic and Occupational Disparities
+5. Evaluate Lifestyle and Social Determinants
+
+
+
 
 ## 🎯 What This Does
 
 Visualizes key stroke risk factors including hypertension, heart disease, age, demographics, and lifestyle patterns to help understand what puts people at risk.
 
-**[View Live Dashboard →](your-tableau-link)**
 
 ## 🛠️ Built With
 
